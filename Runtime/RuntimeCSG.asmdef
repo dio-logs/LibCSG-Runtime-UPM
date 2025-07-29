@@ -1,0 +1,5 @@
+{
+  "name": "LibCSG-Runtime-UPM",
+  "rootNamespace": "LibCSG",
+  "autoReferenced": true
+}

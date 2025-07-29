@@ -1,0 +1,12 @@
+{
+  "name": "com.godotlib.runtimecsg",
+  "version": "1.0.0",
+  "displayName": "Runtime CSG for Unity",
+  "description": "UPM-compatible fork of LibCSG-Runtime, originally created by LokiResearch and repackaged by dio-logs under the MIT License.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "dio-logs",
+    "url": "https://github.com/dio-logs"
+  }
+}
